@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jgarciaga-overseerr-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-jgarciaga-overseerr-mcp)
+
 # MCP server for Overseerr
 
 MCP server to interact with Overseerr API for movie and TV show requests management.
